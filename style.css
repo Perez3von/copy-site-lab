@@ -1,0 +1,96 @@
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 60px;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.section2 {
+  background-color: rgb(159, 160, 216);
+  height: 250px;
+}
+
+.section3 {
+  text-align: center;
+  height: 20px;
+  padding: 20px;
+  font-weight: bold;
+}
+
+.section4 {
+  height: 300px;
+}
+
+.box-container {
+  margin-left: 150px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.search-container {
+  display: inline-flex;
+  background-color: white;
+  border-radius: 2px;
+}
+
+.box-content {
+  margin-left: 15px;
+  border-width: 1px;
+  border-style: solid;
+  height: 250px;
+  width: 250px;
+  background-color: whitesmoke;
+}
+
+.something-that-needs-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.home-message {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  color: white;
+  font-size: 2em;
+  font-weight: bold;
+}
+#logo {
+  font-size: 2em;
+  font-style: oblique;
+  color: blue;
+  font-weight: bold;
+}
+
+.header-left-side {
+  margin-left: 80px;
+}
+
+.header-help {
+  margin-right: 80px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(44, 44, 44);
+  margin: 5px;
+}
+
+input {
+  width: 500px;
+  height: 45px;
+  border-style: none;
+}
+
+input[value] {
+  color: gray;
+  margin-left: 20px;
+}
+
+#my-image {
+  margin-top: 12px;
+  margin-right: 12px;
+}
