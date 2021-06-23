@@ -8,8 +8,11 @@ header {
 }
 
 .section2 {
-  background-color: rgb(159, 160, 216);
-  height: 250px;
+  background-image: url(https://drscdn.500px.org/photo/1032726490/q%3D80_m%3D1000/v2?sig=508ecdc07c4f2cc3d11aa9efbd91b88dc0c76c8079728f5a48971b6ddea76d01);
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .section3 {
@@ -99,4 +102,5 @@ input[value] {
 #my-image {
   margin-top: 12px;
   margin-right: 12px;
+  margin-left: 5px;
 }
