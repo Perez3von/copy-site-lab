@@ -1,7 +1,7 @@
 header {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-evenly;
   height: 60px;
   align-items: center;
   margin-bottom: 5px;
@@ -69,6 +69,10 @@ header {
 
 .header-left-side {
   margin-left: 80px;
+}
+
+.header-middle {
+  margin-left: 150px;
 }
 
 .header-help {
