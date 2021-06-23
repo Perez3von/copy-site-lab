@@ -36,6 +36,7 @@ header {
   display: inline-flex;
   background-color: white;
   border-radius: 2px;
+  width: 500px;
 }
 
 .box-content {
@@ -93,7 +94,6 @@ input {
 
 input[value] {
   color: gray;
-  margin-left: 20px;
 }
 
 #my-image {
