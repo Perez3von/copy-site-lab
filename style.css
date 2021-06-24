@@ -46,9 +46,8 @@ header {
   margin-left: 15px;
   border-width: 1px;
   border-style: solid;
-  height: 250px;
-  width: 250px;
-  background-color: whitesmoke;
+  height: 300px;
+  width: 300px;
 }
 
 .something-that-needs-center {
